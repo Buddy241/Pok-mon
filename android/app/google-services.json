@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "823876101682",
+    "project_id": "pokimon-73cba",
+    "storage_bucket": "pokimon-73cba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823876101682:android:95ebb31b97a80369447e2b",
+        "android_client_info": {
+          "package_name": "com.testing.pokimon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823876101682-o1eko634bih4v0djdmafpft0o64a4g2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.testing.pokimon",
+            "certificate_hash": "8df315414b18ea9b93c65dacaf32788e606e9d52"
+          }
+        },
+        {
+          "client_id": "823876101682-aujgo43b8ddb7vqva4bfjnr74kcsv1rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy2nBxYwsaDjPdUklTUfkGoHIMRecbvEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823876101682-aujgo43b8ddb7vqva4bfjnr74kcsv1rq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "823876101682-pnbnnpcntiq3keh9opcvs2qfjl1ref1e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.testing.pokimon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
