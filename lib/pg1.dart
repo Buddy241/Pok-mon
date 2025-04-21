@@ -55,6 +55,7 @@ class _PokedexScreenState extends State<PokedexScreen> {
     }
   }
 
+  // this for the search 
   void _filterPokemon(String query) {
     setState(() {
       searchQuery = query.toLowerCase();
